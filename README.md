@@ -11,8 +11,9 @@
 
 
 
----
 
+
+---
 
 ## 🔗 Connect with Me
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B5?style=flat&logoColor=white)](https://portfolio-lovat-sigma-11.vercel.app/)-->
@@ -22,8 +23,8 @@
 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sudhanshu8252)
-
-
+---
+---
 # 🛠 Skills
 
 ## 🧑‍💻 Programming Languages:
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
+
 
 ## 🎨 Frontend:
 <p>
@@ -68,7 +69,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
-
+---
 
 ## 🐋 Currently Learning
 <p>
@@ -79,7 +80,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
-
+---
 
 
 # 💼 Training
@@ -92,7 +93,7 @@
 
 
 # 📂 Projects
-<p>
+
 ### **1️⃣ Web Based IDE (Frontend Development) – JAN 2025 to APR 2025**
 - Designed and developed a responsive code editor UI with 10+ reusable components, supporting code editing directly in the browser.  
 - Implemented 5+ interactive features including file tabs, editor layout controls, and dynamic UI updates using JavaScript.  
@@ -104,15 +105,16 @@
 - Developed and optimized frontend modules for book search, issue/return, and user dashboards, ensuring smooth performance and intuitive navigation for 50+ active users, improving task completion speed by 30.
 -  Planned and implemented new frontend features such as advanced filtering, real-time availability indicators, and role-based access views (Admin/User), increasing user engagement and reducing manual queries by 40.
 - Managed book data using interactive UI components with efficient DOM updates. 
-</p>
 
 
+---
 # 🚀 Fun Projects  
 - Maze Solver
 
-
+---
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sudhanshu8252&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sudhanshu8252&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu8252&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
