@@ -17,7 +17,7 @@
 
 ## 🔗 Connect with Me
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B5?style=flat&logoColor=white)](https://portfolio-lovat-sigma-11.vercel.app/)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudhanshu-ranjan-9479b8294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-ranjan-9479b8294/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sudhanshu-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudhanshu8252)
 [![Email](https://img.shields.io/badge/Email-sudhanshuranjan9608@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sudhanshuranjan9608@gmail.com)
 
