@@ -110,6 +110,7 @@
 ---
 # 🚀 Fun Projects  
 - Maze Solver
+- Snake Game
 
 ---
 
