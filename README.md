@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="Profile.png" target="_blank">
-    <img src="Profile__.png" alt="Sudhanshu Ranjan - Frontend Developer" width="1000" />
+    <img src="profile__.png" alt="Sudhanshu Ranjan - Frontend Developer" width="1000" />
   </a>
 </p>
 
