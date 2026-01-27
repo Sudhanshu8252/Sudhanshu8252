@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sudhanshu Ranjan
 
-*Frontend Developer* | *Data Analytics*  
+*Frontend Developer*
 *India*
 
 <p align="center">
