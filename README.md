@@ -96,7 +96,7 @@
 ---
 
 
-# 💼 Training
+# 💼 Experience
 
 ### **DataBase Solutions Expert,Wipro (Jul 2025 – Sep 2025)**
 - Gained strong understanding of DBMS and RDBMS concepts including normalization, keys, constraints, and indexing.
@@ -114,10 +114,10 @@
 
 
 
-### **2️⃣ Library Management System (Frontend Development) - AUG 2024 to DEC 2024**
-- Developed and optimized frontend modules for book search, issue/return, and user dashboards, ensuring smooth performance and intuitive navigation for 50+ active users, improving task completion speed by 30.
--  Planned and implemented new frontend features such as advanced filtering, real-time availability indicators, and role-based access views (Admin/User), increasing user engagement and reducing manual queries by 40.
-- Managed book data using interactive UI components with efficient DOM updates. 
+### **2️⃣ Job Portal Web Application (Frontend Development) - JAN 2025 to DEC 2024**
+- Designed and developed a responsive job portal UI using React.js with 15+ reusable components, enabling job seekers to browse and apply for 50+ job listings.
+- Implemented 5+ interactive features including job filtering, search, pagination, and recruiter job posting flows for smooth navigation.
+- Improved front-end performance by 40\% through optimized state management and component reusability, ensuring fast rendering across devices.
 
 
 ---
