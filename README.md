@@ -52,6 +52,10 @@
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 
+  <!-- Tailwind CSS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+
+
 </p>
 
 
@@ -62,6 +66,10 @@
 
   <!-- Microsoft SQL Server -->
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+
+  <!-- MongoDB -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+
 </p>
 
 
